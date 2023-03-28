@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Angular, JavaScript, Node.js, Java, Unity, Lua**
 
-- ⚡ Fun fact **Mono champ 1.3kk+ LoL**
+- ⚡ Fun fact **Mono champ LoL 1.3kk+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
