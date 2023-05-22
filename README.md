@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **React, Angular, JavaScript, Node.js, Java, Unity, Lua**
+- 💬 Ask me about **React, JavaScript, Node.js, Java, Unity, Lua**
 
 - ⚡ Fun fact **Mono champ LoL 1.3kk+**
 
