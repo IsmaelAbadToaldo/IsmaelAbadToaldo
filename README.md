@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working at **SONDA Brasil**
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 💬 Ask me about **React, JavaScript, Node.js, Java, Unity, Lua**
-
-- ⚡ Fun fact **Mono champ LoL 1.3kk+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
